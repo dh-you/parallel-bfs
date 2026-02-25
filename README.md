@@ -1,7 +1,7 @@
 # parallel-bfs
 MPI-based implementations of BFS for SNAP graphs
 
-| Snap Graph | Sequential | 2 threads | 4 threads | 6 threads |
+| SNAP Graph | Sequential | 2 threads | 4 threads | 6 threads |
 |:-----------|:----------:|:---------:|:---------:|:---------:|
 | Arxiv General Relativity (5k nodes, 0.03M edges) | 0.965 | 4.390 | 3.424 | 1.856 |
 | Arxiv Astro Physics (19k nodes, 0.4M edges) | 5.669 | 48.081 | 37.392 | 8.775 |
