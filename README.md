@@ -8,3 +8,5 @@ MPI-based implementations of BFS for SNAP graphs
 | Arxiv Condensed Matter (23k nodes, 0.2M edges) | 5.381 | 36.747 | 14.496 | 4.053 |
 | Epinions Social Network (76k nodes, 0.5M edges) | 12.239 | 25.538 | 15.103 | 10.862 |
 | EU Email Communication Network (265k nodes, 0.4M edges) | 15.917 | 14.301 | 9.626 | 7.331 |
+
+Time measured in milliseconds
